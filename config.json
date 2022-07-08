@@ -1,7 +1,7 @@
 {
-    "token": "OTU0NTMzNDM3ODI0NDY2OTU1.GsqTtv.Ey_pxHnAws6b157wSigmJZpAJFxdfFbnXxQavo",
+    "token": "bot token",
     "prefix": "/",
-    "Database": "mongodb+srv://Madonnaa_:AAbyssland2@gc-database.h6diw.mongodb.net/?retryWrites=true&w=majority",
+    "Database": "mongodb url",
     "server": {
         "logoGC": "https://cdn.discordapp.com/attachments/992717282876866563/992727873997787188/logoGC.png",
         
