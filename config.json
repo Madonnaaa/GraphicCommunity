@@ -1,0 +1,39 @@
+{
+    "token": "OTU0NTMzNDM3ODI0NDY2OTU1.GsqTtv.Ey_pxHnAws6b157wSigmJZpAJFxdfFbnXxQavo",
+    "prefix": "/",
+    "Database": "mongodb+srv://Madonnaa_:AAbyssland2@gc-database.h6diw.mongodb.net/?retryWrites=true&w=majority",
+    "server": {
+        "logoGC": "https://cdn.discordapp.com/attachments/992717282876866563/992727873997787188/logoGC.png",
+        
+        "category": {
+            "ticket": "992717282876866561"
+        },
+        "Schannels": {
+            "transcriptLogs": "992849617995706498",
+            "suggerimenti": "993100002744352808"
+        },
+        "roles": {
+            "ticketaccess": "992752548068986930"
+        }
+    },
+    "emoji": {
+        "logoGC": "<:logoGC:992728359593320459>",
+        "scudo": "<:scudoemoji1:992730285009551392>",
+        "ticket": "<:ticketemoji2:992731226593038366>",
+        "settings": "<:settingsemoji3:992732099318665317>",
+        "giveaway": "<:giveaway:992734208546066432>",
+        "info": "<:infoemoji5:992736531058012270>",
+        "musica": "<:musicaemoji6:992737145456427038>",
+        "suggerimento": "<:suggerimentoemoji7:992738586967425065>",
+        "partner": "<:partnershipemoji8:992755593532149780>",
+        "slashcommand": "<:slashcommandemoji9:992860569206018109>"
+    },
+    "embed": {
+        "errorColor": "#ff0000"
+    },
+    "color": {
+        "red": "#ff0000",
+        "darkred": "DARK_RED",
+        "green": "GREEN"
+    }
+}
